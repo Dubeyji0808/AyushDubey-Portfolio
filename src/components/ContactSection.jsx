@@ -110,7 +110,7 @@ export const ContactSection = () => {
                   rel="noopener noreferrer"
                   className="rounded-full bg-gray-200 p-3 hover:bg-blue-500 transition-colors"
                 >
-                  <Linkedin className="text-blue-700" />
+                  <Linkedin className="text-blue-300" />
                 </a>
                 <a
                   href="https://x.com/0808Dubey"
@@ -118,7 +118,7 @@ export const ContactSection = () => {
                   rel="noopener noreferrer"
                   className="rounded-full bg-gray-200 p-3 hover:bg-blue-400 transition-colors"
                 >
-                  <Twitter className="text-blue-500" />
+                  <Twitter className="text-blue-300" />
                 </a>
                 <a
                   href="https://github.com/Dubeyji0808"
@@ -126,7 +126,7 @@ export const ContactSection = () => {
                   rel="noopener noreferrer"
                   className="rounded-full bg-gray-200 p-3 hover:bg-gray-800 transition-colors"
                 >
-                  <Github className="text-black" />
+                  <Github className="text-blue-300" />
                 </a>
               </div>
             </div>
