@@ -18,7 +18,9 @@ const skills = [
 
   // Tools
   { name: "Git/GitHub", image: "Skills/git-original-wordmark.svg", category: "tools" },
-  { name: "Intellij", image: "Skills/intellij-original.svg", category: "tools" },,
+  { name: "Intellij", image: "Skills/intellij-original.svg", category: "tools" },
+    { name: "Postman", image: "Skills/postman-original.svg", category: "tools" },
+
   { name: "Docker", image: "Skills/docker-original-wordmark.svg", category: "tools" },
   { name: "Kubernetes", image: "Skills/kubernetes-original-wordmark.svg", category: "tools" },
 ];
