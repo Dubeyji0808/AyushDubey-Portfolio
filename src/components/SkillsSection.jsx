@@ -7,7 +7,7 @@ const skills = [
   { name: "CSS", image: "Skills/css3-original-wordmark.svg", category: "frontend" },
   { name: "JavaScript", image: "Skills/javascript-original.svg", category: "frontend" },
     { name: "Java", image: "Skills/java-original-wordmark.svg", category: "frontend" },
- {name: "React", image: "Skills/react-original-wordmark.svg", category: "frontend" },
+ {name: "React", image: "Skills/react-original-wordmark.svg", category: "Backend" },
   { name: "TypeScript", image: "Skills/typescript-original.svg", category: "frontend" },
   { name: "Tailwind CSS", image: "Skills/tailwindcss-original.svg", category: "frontend" },
 
