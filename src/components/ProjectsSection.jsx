@@ -15,7 +15,7 @@ const projects = [
     title: "ShareKaro",
     description:
       "Share files instantly and securely with ShareKaro.",
-    image: "public/projects/ShareKaro.png",
+    image: "projects/ShareKaro.png",
     tags: ["Java", "Maven", "React"],
 //     demoUrl: "#",
     githubUrl: "https://github.com/Dubeyji0808/ShareKaro",

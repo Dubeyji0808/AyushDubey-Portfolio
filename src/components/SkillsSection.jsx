@@ -3,23 +3,23 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Frontend
-  { name: "HTML", image: "public/Skills/html5-original.svg", category: "frontend" },
-  { name: "CSS", image: "public/Skills/css3-original-wordmark.svg", category: "frontend" },
-  { name: "JavaScript", image: "public/Skills/javascript-original.svg", category: "frontend" },
-  { name: "React", image: "public/Skills/react-original-wordmark.svg", category: "frontend" },
-  { name: "TypeScript", image: "public/Skills/typescript-original.svg", category: "frontend" },
-  { name: "Tailwind CSS", image: "public/Skills/tailwindcss-original.svg", category: "frontend" },
+  { name: "HTML", image: "Skills/html5-original.svg", category: "frontend" },
+  { name: "CSS", image: "Skills/css3-original-wordmark.svg", category: "frontend" },
+  { name: "JavaScript", image: "Skills/javascript-original.svg", category: "frontend" },
+  { name: "React", image: "Skills/react-original-wordmark.svg", category: "frontend" },
+  { name: "TypeScript", image: "Skills/typescript-original.svg", category: "frontend" },
+  { name: "Tailwind CSS", image: "Skills/tailwindcss-original.svg", category: "frontend" },
 
   // Backend
-  { name: "SpringBoot", image: "public/Skills/spring-original-wordmark.svg", category: "backend" },
-  { name: "MySQL", image: "public/Skills/mysql-original-wordmark.svg", category: "backend" },
-  { name: "PostgreSQL", image: "public/Skills/postgresql-original-wordmark.svg", category: "backend" },
+  { name: "SpringBoot", image: "Skills/spring-original-wordmark.svg", category: "backend" },
+  { name: "MySQL", image: "Skills/mysql-original-wordmark.svg", category: "backend" },
+  { name: "PostgreSQL", image: "Skills/postgresql-original-wordmark.svg", category: "backend" },
 
   // Tools
-  { name: "Git/GitHub", image: "public/Skills/git-original-wordmark.svg", category: "tools" },
-  { name: "Intellij", image: "public/Skills/intellij-original.svg", category: "tools" },,
-  { name: "Docker", image: "public/Skills/docker-original-wordmark.svg", category: "tools" },
-  { name: "Kubernetes", image: "public/Skills/kubernetes-original-wordmark.svg", category: "tools" },
+  { name: "Git/GitHub", image: "Skills/git-original-wordmark.svg", category: "tools" },
+  { name: "Intellij", image: "Skills/intellij-original.svg", category: "tools" },,
+  { name: "Docker", image: "Skills/docker-original-wordmark.svg", category: "tools" },
+  { name: "Kubernetes", image: "Skills/kubernetes-original-wordmark.svg", category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
